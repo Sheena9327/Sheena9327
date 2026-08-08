@@ -14,9 +14,18 @@ I turn business problems and operational data into **actionable insights, proces
 
 ### 🛠️ Skills & Tools
 
-**Data & Analytics:** SQL • Excel • Tableau • Power BI • Python  
-**Business Analysis:** Requirements Gathering • Process Mapping • Root Cause Analysis • Stakeholder Analysis  
-**Databases:** MySQL • MS Access • MongoDB  
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Business Analysis:** Requirements Gathering • Process Mapping • Root Cause Analysis • Stakeholder Analysis
+
+**Databases:** MySQL • MS Access • MongoDB
+
 **Business Systems:** ERP • SAP • Salesforce
 
 ---
