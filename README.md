@@ -48,5 +48,5 @@ Transformed raw data into interactive dashboards and KPIs to uncover trends and 
 
 ### 🤝 Connect with Me
 
-💼 LinkedIn  
-📧 Email
+💼 [LinkedIn](https://www.linkedin.com/in/shivanigupta9327/)  
+📧 [Email](mailto:shivani.gupta9327@gmail.com)
